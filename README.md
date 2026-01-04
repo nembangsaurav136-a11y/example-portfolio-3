@@ -45,7 +45,6 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 - Project impacted 200+ students, with 37 successfully landing jobs using insights
 
 ![LinkedIn Dashboard](/images/image1.png)
----
 
 ## 🎓 Education
 

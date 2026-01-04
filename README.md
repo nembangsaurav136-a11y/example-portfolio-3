@@ -43,8 +43,7 @@ Welcome to my data analyst portfolio! I specialize in turning raw data into mean
 - Scraped job postings from LinkedIn using **BeautifulSoup** and stored data in **PostgreSQL**
 - Cleaned and analyzed data using **Pandas**, and built **interactive dashboards** in Tableau
 - Project impacted 200+ students, with 37 successfully landing jobs using insights
-
-![LinkedIn Dashboard](/images/image1.png)
+(/images/image1.png)
 ---
 
 ## 🎓 Education
